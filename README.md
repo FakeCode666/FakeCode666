@@ -1,2 +1,1 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
-
+<a href="https://app.daily.dev/Tien_Bip_369"><img src="https://api.daily.dev/devcards/c9e01a0b7d86467595b35f642e7acada.png?r=ar0" width="400" alt="Tiến Bịp Prenium's Dev Card"/></a>
